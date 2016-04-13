@@ -1,6 +1,4 @@
-# SimpleResponseCycleWebService
-
-A simple REST API implemented in Rails 5 with token authentication.
+### A simple REST API implemented in Rails 5 with token authentication.
 
 
 
