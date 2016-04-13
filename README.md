@@ -3,7 +3,6 @@
 A simple REST API implemented in Rails 5 with token authentication.
 ____
 
-[Headers](#headers) 
 
 # Authentication Features
 Because this API uses token authentication, you will need an authentication token.
